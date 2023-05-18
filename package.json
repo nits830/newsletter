@@ -1,0 +1,22 @@
+{
+  "name": "newsletter-app",
+  "version": "1.0.0",
+  "description": "Newsletter Email. app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nits830/newsletter.git"
+  },
+  "author": "Nitish Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nits830/newsletter/issues"
+  },
+  "homepage": "https://github.com/nits830/newsletter#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
